@@ -1,5 +1,5 @@
 const initialState = {
-    valueNumber: 1
+    valueNumber: 0
 }
 const ADDVALUE = 'ADDVALUE';
 const DECREASEVALUE = 'DECREASEVALUE';
