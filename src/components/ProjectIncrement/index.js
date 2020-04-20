@@ -26,10 +26,10 @@ const ProjectIncrement = (props) => {
 
       </div>
       <div className="card text-center bg-dark text-light pt-5 pb-5">
-        <h1 className="text-light">
+        <h2 className="text-light">
           TOTAL VALUE IS : <br />
-        </h1>
-        <h1 className="text-light">{valueNumber}</h1>
+        </h2>
+        <h1 className="text-light display-3">{valueNumber}</h1>
           
         
         <div className="card-body">
