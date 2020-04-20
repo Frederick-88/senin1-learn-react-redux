@@ -4,6 +4,7 @@ import ReactDOM from 'react-dom';
 import AppRedux from "./AppRedux"
 
 import 'bootstrap/dist/css/bootstrap.min.css';
+import "bootswatch/dist/[theme]/bootstrap.min.css"; 
 import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(
